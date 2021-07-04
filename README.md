@@ -6,7 +6,7 @@
 * Bachelors of Science in Business Administratuon (Business Analytics and Information Technology), *Tunis Business School*, 2017-2021
 
 # [Project 1: Financial Statement Analyzer]
-
+![alt text](stephen-dawson-qwtCeJ5cLYs-unsplash.jpg)
 This project integrates various news source for extracting data from financial reports in pdf and then conduct the ratio analysis automaticaly to analyze the company performance.
 * **Python libraries used:** Streamlit, Tabular, JSON, Scikit-learn
 * **Input:** Financial statement in pdf format
