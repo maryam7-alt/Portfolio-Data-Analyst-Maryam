@@ -2,7 +2,7 @@
 *Junior Data Analyst*
 
 # Education
-* Masters of Business Economics and Management, 2021-2022
+* Masters of Science in Big Data ADEO, 2021-2022
 * Bachelors of Science in Business Administratuon (Business Analytics and Information Technology), *Tunis Business School*, 2017-2021
 
 # [Project 1: Financial Statement Analyzer]
@@ -12,9 +12,9 @@ This project integrates various news source for extracting data from financial r
 * **Input:** Financial statement in pdf format
 * **Output:** User interface to visualize the performance
 
-# [Project 2: ]
-
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+# [Project 2: Customer Churn Analysis ]
+![alt text](stephen-dawson-qwtCeJ5cLYs-unsplash.jpg)
+This project makes use of ***Association Rules***  coupled with ***MArketing Models*** to analyze the churning rate of certain customer and propose some customized offers.
+* **R libraries used:** arules
+* **Input:** Telecommunication company dataset
+* **Output:** potential customers who will likely to churn
