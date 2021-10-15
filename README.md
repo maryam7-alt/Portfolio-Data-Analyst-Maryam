@@ -13,7 +13,7 @@ This project integrates various news source for extracting data from financial r
 * **Output:** User interface to visualize the performance
 
 # [Project 2: Customer Churn Analysis ]
-![alt text](stephen-dawson-qwtCeJ5cLYs-unsplash.jpg)
+![alt text](loyalty.jpg)
 This project makes use of ***Association Rules***  coupled with ***MArketing Models*** to analyze the churning rate of certain customer and propose some customized offers.
 * **R libraries used:** arules
 * **Input:** Telecommunication company dataset
