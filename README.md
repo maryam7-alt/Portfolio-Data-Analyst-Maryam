@@ -22,7 +22,7 @@ The aim of this project is to harness the ability of advanced algorithms to anal
 * **Python libraries used:** OpenCV, Textract from AWS, OCR technique
 * **Input:** tabular documents/text documents in pdf format
 * **Output:** structured data extracted from document.
-
+check source code: shorturl.at/bmuwM
 # [Project 3: Customer Churn Analysis- Know Your Customer]
 ![alt text](loyalty.jpg)
 It is mandatory for a business to know its customer and understand their behaviour in order to personalize their services and optimize his operations
@@ -39,7 +39,7 @@ In order to effeciently allocate sanitary measures and resources a potential pre
 * **Output:** dashborad of the current covid cases and futures cases 
 
 # [Project 5: E-health User Interface for covid case Using Java ]
-![alt text]()
+![alt text](e-health user interface.jpg)
 Programming the GUI of an E-health User Interface using JAVA
 * **JAVA libraries used:** Abstract, GUI 
 * **Input:** from scratch
