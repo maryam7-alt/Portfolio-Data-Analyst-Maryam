@@ -3,7 +3,7 @@
 *Junior Data Scientist who aims to create value and help Companies Harness the Power of Data*
 
 # Education
-* Master of Science in Big Data ADEO and Data Science, *CY-Tech (Ex: EISTI)*, 2021-2022
+* Master of Science in Big Data and Data Science, *CY-Tech (Ex: EISTI)*, 2021-2022
 * Bachelor of Science in Business Administration (Business Analytics and Information Technology), *Tunis Business School*, 2017-2021
 * Economics Degree, *Management Institute of Tunis*, 2016-2017 
 
@@ -15,7 +15,7 @@ This project depends on the technology of analyzing documents that was explained
 * **Python libraries used:** Streamlit, Tabular, JSON, Scikit-learn, flask-Python for deployment
 * **Input:** Financial statement in pdf format
 * **Output:** User interface to visualize the performance of the company with key financial Ratios.
- Please review my presentation: shorturl.at/xFNZ2
+ Please review my presentation:![alt text](shorturl.at/xFNZ2)
 
 # [Project 2: Analyze and Classify Documents with OpenCV and Textract PDF Scraping]
 ![alt text](analyzedocument.jpg)
