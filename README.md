@@ -14,10 +14,10 @@ This project depends on the technology of analyzing documents that was explained
 * **Python libraries used:** Streamlit, Tabular, JSON, Scikit-learn, flask-Python for deployment
 * **Input:** Financial statement in pdf format
 * **Output:** User interface to visualize the performance of the company with key financial Ratios.
-## You 
+## Please review my presentation: shorturl.at/xFNZ2
 
 # [Project 2: Analyze and Classify Documents with OpenCV and Textract-PDF Scraping]
-![alt text]()
+![alt text](content analysis.jpg)
 The aim of this project is to harness the ability of advanced algorithms to analyze documents with different structures and integrate pdf and unsearchable documents which is a challenge but also can help in facilitating a lot of transactions.
 * **Python libraries used:** OpenCV, Textract from AWS, OCR technique
 * **Input:** tabular documents/text documents in pdf format
