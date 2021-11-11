@@ -18,7 +18,9 @@ This project depends on the technology of analyzing documents that was explained
  Please review my presentation: <a href="shorturl.at/xFNZ2"> Presentation </a>
 
 # [Project 2: Analyze and Classify Documents with OpenCV and Textract PDF Scraping]
-![alt text](see.jpg)
+<p align="center">
+  <img src="analyzedocument.jpg" />
+</p>
 The aim of this project is to harness the ability of advanced algorithms to analyze documents with different structures and integrate pdf and unsearchable documents which is a challenge but also can help in facilitating a lot of transactions.
 * **Python libraries used:** OpenCV, Textract from AWS, OCR technique
 * **Input:** tabular documents/text documents in pdf format
@@ -33,7 +35,9 @@ This project makes use of ***Association Rules***  coupled with ***Marketing Mod
 * **Output:** potential customers who will likely to churn
 
 # [Project 4: Forecasting Future Covid Cases in Singapore during April 2020 and August 2020 ]
-![alt text](covidforecast.jpg)
+<p align="center">
+  <img src="covidforecast.jpg" />
+</p>
 In order to effeciently allocate sanitary measures and resources a potential prediction of future cases is very important. This project analyze the time series of covid cases from April 2019 through March 2020 and model it using ARIMA and SARIMA after cleaning the data we proceed to the forecast.
 * **python libraries used:* Arima, Numpy, Pandas, Seaborn* 
 * **Input:** Dataset of previous covid cases
@@ -48,7 +52,9 @@ Programming the GUI of an E-health User Interface using JAVA
 please check the link for the code: shorturl.at/ezEPR. 
 
 # [Project 6: Design A Pharmacy Information System using SQL ]
-![alt text](final2.jpg)
+<p align="center">
+  <img src="database.jpg" />
+</p>
 A database to manage inventory, clients and Sales.
 * **Tools used :** Oracle Databese + Toad, PL/SQL)
 * **Input:** designed a databes and assigned rules and priviliges 
