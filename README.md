@@ -2,8 +2,8 @@
 *Junior Data Scientist*
 
 # Education
-* Master of Science in Big Data ADEO, *CY-Tech (Ex: EISTI)*, 2021-2022
-* Bachelors of Science in Business Administratuon (Business Analytics and Information Technology), *Tunis Business School*, 2017-2021
+* Master of Science in Big Data ADEO and Data Science, *CY-Tech (Ex: EISTI)*, 2021-2022
+* Bachelor of Science in Business Administration (Business Analytics and Information Technology), *Tunis Business School*, 2017-2021
 * Economics Degree, *Management Institute of Tunis*, 2016-2017 
 
 
