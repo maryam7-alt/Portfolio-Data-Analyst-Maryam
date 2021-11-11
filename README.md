@@ -1,9 +1,11 @@
 # Maryam Jemaa
-*Junior Data Analyst*
+*Junior Data Scientist*
 
 # Education
-* Masters of Science in Big Data ADEO, 2021-2022
+* Master of Science in Big Data ADEO, *CY-Tech (Ex: EISTI)*, 2021-2022
 * Bachelors of Science in Business Administratuon (Business Analytics and Information Technology), *Tunis Business School*, 2017-2021
+* Economics Degree, *Management Institute of Tunis*, 2016-2017 
+
 
 # [Project 1: Financial Statement Analyzer]
 ![alt text](stephen-dawson-qwtCeJ5cLYs-unsplash.jpg)
