@@ -17,7 +17,7 @@ This project depends on the technology of analyzing documents that was explained
  Please review my presentation: shorturl.at/xFNZ2
 
 # [Project 2: Analyze and Classify Documents with OpenCV and Textract PDF Scraping]
-![alt text](content.jpg)
+![alt text]()
 The aim of this project is to harness the ability of advanced algorithms to analyze documents with different structures and integrate pdf and unsearchable documents which is a challenge but also can help in facilitating a lot of transactions.
 * **Python libraries used:** OpenCV, Textract from AWS, OCR technique
 * **Input:** tabular documents/text documents in pdf format
@@ -39,10 +39,18 @@ In order to effeciently allocate sanitary measures and resources a potential pre
 * **Output:** dashborad of the current covid cases and futures cases 
 
 # [Project 5: E-health User Interface for covid case Using Java ]
-![alt text](health.jpg)
+![alt text]()
 Programming the GUI of an E-health User Interface using JAVA
 * **JAVA libraries used:** Abstract, GUI 
 * **Input:** from scratch
 * **Output:** An Interactive User Interafce
-please check the link for the code: shorturl.at/ezEPR.
+please check the link for the code: shorturl.at/ezEPR. 
+
+# [Project 6: Design A Pharmacy Information System using SQL ]
+![alt text]()
+A database to manage inventory, clients and Sales.
+* **Tools used :** Oracle Databese + Toad, PL/SQL)
+* **Input:** designed a databes and assigned rules and priviliges 
+* **Output:** An Interactive User Interafce
+please check the link for the code: in the code repository.
 
