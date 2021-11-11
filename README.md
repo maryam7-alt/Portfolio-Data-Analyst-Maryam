@@ -1,5 +1,5 @@
-# Maryam Jemaa
-*Junior Data Scientist*
+# Maryam Jemaa Portfolio
+*Junior Data Scientist who aims to create value and help Companies Harness the Power of Data*
 
 # Education
 * Master of Science in Big Data ADEO and Data Science, *CY-Tech (Ex: EISTI)*, 2021-2022
