@@ -16,9 +16,8 @@ This project depends on the technology of analyzing documents that was explained
 * **Output:** User interface to visualize the performance of the company with key financial Ratios.
  Please review my presentation: shorturl.at/xFNZ2
 
-# [Project 2: Analyze and Classify Documents with OpenCV and Textract-PDF Scraping]
-![alt text]()
-
+# [Project 2: Analyze and Classify Documents with OpenCV and Textract PDF Scraping]
+![alt text](content.jpg)
 The aim of this project is to harness the ability of advanced algorithms to analyze documents with different structures and integrate pdf and unsearchable documents which is a challenge but also can help in facilitating a lot of transactions.
 * **Python libraries used:** OpenCV, Textract from AWS, OCR technique
 * **Input:** tabular documents/text documents in pdf format
@@ -32,7 +31,7 @@ This project makes use of ***Association Rules***  coupled with ***Marketing Mod
 * **Input:** Telecommunication company dataset
 * **Output:** potential customers who will likely to churn
 
-# [Project 4: Forecasting Future Covid Cases in Singapore during *April 2020 - August 2020 ]
+# [Project 4: Forecasting Future Covid Cases in Singapore during April 2020 and August 2020 ]
 ![alt text]()
 In order to effeciently allocate sanitary measures and resources a potential prediction of future cases is very important. This project analyze the time series of covid cases from April 2019 through March 2020 and model it using ARIMA and SARIMA after cleaning the data we proceed to the forecast.
 * **python libraries used:* Arima, Numpy, Pandas, Seaborn* 
