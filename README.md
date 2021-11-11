@@ -40,7 +40,7 @@ In order to effeciently allocate sanitary measures and resources a potential pre
 * **Output:** dashborad of the current covid cases and futures cases 
 
 # [Project 5: E-health User Interface for covid case Using Java ]
-![alt text](e-health user interface.jpg)
+![alt text](health.jpg)
 Programming the GUI of an E-health User Interface using JAVA
 * **JAVA libraries used:** Abstract, GUI 
 * **Input:** from scratch
