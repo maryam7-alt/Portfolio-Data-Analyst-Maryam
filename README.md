@@ -32,7 +32,7 @@ This project makes use of ***Association Rules***  coupled with ***Marketing Mod
 * **Output:** potential customers who will likely to churn
 
 # [Project 4: Forecasting Future Covid Cases in Singapore during *April 2020 - August 2020 ]
-![alt text]()
+![alt text](covid cases.PNG)
 In order to effeciently allocate sanitary measures and resources a potential prediction of future cases is very important. This project analyze the time series of covid cases from April 2019 through March 2020 and model it using ARIMA and SARIMA after cleaning the data we proceed to the forecast.
 * **python libraries used:* Arima, Numpy, Pandas, Seaborn* 
 * **Input:** Dataset of previous covid cases
