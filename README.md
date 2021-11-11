@@ -48,7 +48,7 @@ Programming the GUI of an E-health User Interface using JAVA
 please check the link for the code: shorturl.at/ezEPR. 
 
 # [Project 6: Design A Pharmacy Information System using SQL ]
-![alt text](database.jpg)
+![alt text](final2.jpg)
 A database to manage inventory, clients and Sales.
 * **Tools used :** Oracle Databese + Toad, PL/SQL)
 * **Input:** designed a databes and assigned rules and priviliges 
