@@ -17,7 +17,7 @@ This project depends on the technology of analyzing documents that was explained
  Please review my presentation: shorturl.at/xFNZ2
 
 # [Project 2: Analyze and Classify Documents with OpenCV and Textract-PDF Scraping]
-![alt text](content analysis.jpg)
+![alt text](https://github.com/maryam7-alt/Portfolio-Data-Analyst-Maryam/blob/main/content%20analysis.jpg)
 The aim of this project is to harness the ability of advanced algorithms to analyze documents with different structures and integrate pdf and unsearchable documents which is a challenge but also can help in facilitating a lot of transactions.
 * **Python libraries used:** OpenCV, Textract from AWS, OCR technique
 * **Input:** tabular documents/text documents in pdf format
