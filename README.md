@@ -54,7 +54,7 @@ please check the link for the code: shorturl.at/ezEPR.
 # [Project 6: Design A Pharmacy Information System using SQL - Auto- Entrepreneur: Created a digital Pharmacy ]
 <p align="center">
   <img src="database.jpg" />
-</p>
+</p> 
 A database to manage inventory, clients and Sales.
 * **Tools used :** Oracle Databese + Toad, PL/SQL)
 * **Input:** designed a databes and assigned rules and priviliges 
