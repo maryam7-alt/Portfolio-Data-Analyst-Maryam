@@ -60,5 +60,5 @@ A database to manage inventory, clients and Sales.
 * **Input:** designed a databes and assigned rules and priviliges 
 * **Output:** An Interactive User Interafce
 please check the link for the code: in the code repository.
-Here is my startup idea: <a href="shorturl.at/eflEW"> presentation </a>
+Here is my startup idea: <a href="https://docs.google.com/presentation/d/1Oywdwdf083cDr0geMvkt4e98FWVvh7hxy41T96hAxEQ/edit?usp=sharing"> presentation </a>
 
