@@ -51,7 +51,7 @@ Programming the GUI of an E-health User Interface using JAVA
 * **Output:** An Interactive User Interafce
 please check the link for the code: shorturl.at/ezEPR. 
 
-# [Project 6: Design A Pharmacy Information System using SQL ]
+# [Project 6: Design A Pharmacy Information System using SQL - Auto- Entrepreneur: Created a digital Pharmacy ]
 <p align="center">
   <img src="database.jpg" />
 </p>
@@ -60,4 +60,5 @@ A database to manage inventory, clients and Sales.
 * **Input:** designed a databes and assigned rules and priviliges 
 * **Output:** An Interactive User Interafce
 please check the link for the code: in the code repository.
+Here is my startup idea: <a href="shorturl.at/eflEW"> presentation </a>
 
